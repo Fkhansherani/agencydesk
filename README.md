@@ -32,7 +32,7 @@ Comment, file approval, time entry and dashboard endpoints, invite
 endpoints, member removal endpoint, and the frontend.
 
 ## Video
-LOOM-LINK-HERE
+https://www.loom.com/share/3000c168178c415793a1992999f08c3b
 
 ## AI disclosure
 Built with AI assistance. I reviewed the code and can explain each part.
